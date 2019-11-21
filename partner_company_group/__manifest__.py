@@ -15,10 +15,10 @@
     ],
     'website': 'https://github.com/OCA/partner-contact',
     'data': [
-        'views/opportunity_view.xml',
+        #'views/opportunity_view.xml',
         'views/contact_view.xml',
-        'views/sale_order_view.xml',
-        'views/account_invoice_view.xml',
+        #'views/sale_order_view.xml',
+        #'views/account_invoice_view.xml',
     ],
     'installable': True,
 }
